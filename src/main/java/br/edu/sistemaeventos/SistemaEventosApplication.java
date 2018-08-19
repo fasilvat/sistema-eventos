@@ -1,4 +1,4 @@
-package br.edu.sistemaeventos.sistemaeventos;
+package br.edu.sistemaeventos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
